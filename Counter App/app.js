@@ -22,7 +22,7 @@ btns.forEach(function (btn) {
             value.style.color = "red";
         }
         else if (value.textContent > 0) {
-            value.style.color = "blue";
+            value.style.color = "green";
         }
         else {
             value.style.color = "black";
